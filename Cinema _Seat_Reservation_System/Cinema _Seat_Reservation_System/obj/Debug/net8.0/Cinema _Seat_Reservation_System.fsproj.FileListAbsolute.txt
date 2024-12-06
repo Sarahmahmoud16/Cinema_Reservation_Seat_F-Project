@@ -1,0 +1,29 @@
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\Cinema _Seat_Reservation_System.exe
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\Cinema _Seat_Reservation_System.deps.json
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\Cinema _Seat_Reservation_System.runtimeconfig.json
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\Cinema _Seat_Reservation_System.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\Cinema _Seat_Reservation_System.pdb
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\FSharp.Core.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\Cinema _Seat_Reservation_System.fsproj.AssemblyReference.cache
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\Cinema _Seat_Reservation_System.AssemblyInfoInputs.cache
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\Cinema _Seat_Reservation_System.AssemblyInfo.fs
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\Cinema _Seat_Reservation_System.fsproj.CoreCompileInputs.cache
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\Cinema _.6435721D.Up2Date
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\Cinema _Seat_Reservation_System.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\refint\Cinema _Seat_Reservation_System.dll
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\Cinema _Seat_Reservation_System.pdb
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\Cinema _Seat_Reservation_System.genruntimeconfig.cache
+D:\PL3\Cinema_Seat_Reservation_Project\Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System\obj\Debug\net8.0\ref\Cinema _Seat_Reservation_System.dll

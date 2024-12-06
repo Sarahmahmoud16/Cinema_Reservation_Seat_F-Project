@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Cinema _Seat_Reservation_System", "Cinema _Seat_Reservation_System\Cinema _Seat_Reservation_System.fsproj", "{72DFAC35-CFAE-42F4-89A7-93224A95C50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72DFAC35-CFAE-42F4-89A7-93224A95C50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DFAC35-CFAE-42F4-89A7-93224A95C50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DFAC35-CFAE-42F4-89A7-93224A95C50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DFAC35-CFAE-42F4-89A7-93224A95C50A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D05A074-24B5-4C9E-9726-BC7757F25D75}
+	EndGlobalSection
+EndGlobal

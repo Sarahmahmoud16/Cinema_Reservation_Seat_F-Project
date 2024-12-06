@@ -1,0 +1,30 @@
+Ticket ID: 3b5f19d4-058a-4bb6-9cf7-eb371a831679
+Customer: sara
+Seat: (1, 6)
+Showtime: 12/6/2024 7:50:29 AM
+
+Ticket ID: f643aeb3-9fc5-44ef-86cc-9c859b68e16d
+Customer: sara
+Seat: (2, 5)
+Showtime: 12/6/2024 5:52:39 AM
+
+Ticket ID: 95e28618-fe2c-4163-8c29-f5ae87bc5f8b
+Customer: Alice
+Seat: (1, 1)
+Showtime: 12/6/2024 4:52:50 AM
+
+Ticket ID: 93b16fbc-c515-4c6f-b881-7e254fc4e6bb
+Customer: Charlie
+Seat: (2, 2)
+Showtime: 12/6/2024 4:52:50 AM
+
+Ticket ID: b9e42ef5-877e-4b8b-8cf4-6fd8ba997fcd
+Customer: sara
+Seat: (2, 4)
+Showtime: 12/6/2024 7:10:47 AM
+
+Ticket ID: 7d0e7cba-4348-4320-b3c5-0c20adae52d5
+Customer: nada
+Seat: (4, 1)
+Showtime: 12/6/2024 6:31:39 PM
+
